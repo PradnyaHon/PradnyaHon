@@ -1,6 +1,14 @@
-# 🌟 **Hi, I'm Pradnya**  
+<h1 align="center">Hi there! 👋 I'm Pradnya</h1>  
 
-**`Software Engineer | Problem Solver | Tech Enthusiast`**  
+<p align="center">
+  <b>Software Engineer | Problem Solver | Tech Enthusiast</b>
+</p>  
+
+<p align="center">
+  <a href="mailto:email.pradnyahon@gmail.com"><img src="https://img.shields.io/badge/Email-email.pradnyahon@gmail.com-red" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/pradnyahon24"><img src="https://img.shields.io/badge/LinkedIn-Pradnya%20Hon-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/PradnyaHon"><img src="https://img.shields.io/badge/GitHub-PradnyaHon-000" alt="GitHub"></a>
+</p>  
 
 ---
 
@@ -10,7 +18,7 @@ Hello! I'm a passionate **Software Engineer** from India with a knack for buildi
 I specialize in:  
 - **Programming Languages:** Java, C, C++  
 - **Database Management:** MySQL  
-- **Core Skills:** Data Structures and Algorithms (DSA), Linux, OOP, SQL  
+- **Core Skills:** Data Structures and Algorithms (DSA), Linux  
 
 I believe in writing clean, scalable code and constantly learning to stay ahead in the ever-evolving tech world. 🚀  
 
@@ -19,12 +27,39 @@ I believe in writing clean, scalable code and constantly learning to stay ahead 
 ## 🛠️ **Skills & Tools**  
 
 ### **Programming Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+## 🛠️ **Programming Languages**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pradnyahon24" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pradnyahon24" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pradnyahon24" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pradnyahon24" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+</p>
+
 
 ### **Database Management:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+<p align="left">
+  <a href="https://www.linkedin.com/in/geeta-hade" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/geeta-hade" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/geeta-hade" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/geeta-hade" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
 
 ### **Development Skills:**  
 - **Data Structures & Algorithms (DSA)**  
