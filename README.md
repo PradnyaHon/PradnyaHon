@@ -10,7 +10,7 @@ Hello! I'm a passionate **Software Engineer** from India with a knack for buildi
 I specialize in:  
 - **Programming Languages:** Java, C, C++  
 - **Database Management:** MySQL  
-- **Core Skills:** Data Structures and Algorithms (DSA), Linux  
+- **Core Skills:** Data Structures and Algorithms (DSA), Linux, OOP, SQL  
 
 I believe in writing clean, scalable code and constantly learning to stay ahead in the ever-evolving tech world. 🚀  
 
