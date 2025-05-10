@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Pradnya</h1>  
 
 <p align="center">
-  <b>Software Engineer | Problem Solver | Tech Enthusiast</b>
+  <b>Software Developer @Amdocs | Problem Solver | Tech Enthusiast</b>
 </p>  
 
 <p align="center">
@@ -16,7 +16,7 @@
 Hello! I'm a passionate **Software Engineer** from India with a knack for building efficient and innovative solutions. My journey in tech revolves around exploring new technologies and solving challenging problems.  
 
 I specialize in:  
-- **Programming Languages:** Java, C, C++  
+- **Programming Languages:** Java, Python, C, C++  
 - **Database Management:** MySQL  
 - **Core Skills:** Data Structures and Algorithms (DSA), Linux  
 
