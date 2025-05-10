@@ -82,7 +82,7 @@ I believe in writing clean, scalable code and constantly learning to stay ahead 
 I love collaborating with like-minded professionals and exploring new opportunities. Let's connect!  
 - **LinkedIn:** [Pradnya Hon](https://www.linkedin.com/in/pradnyahon24)  
 - **GitHub:** [PradnyaHon](https://github.com/PradnyaHon)  
-- **Email:** [email.pradnyahon@gmail.com](mailto:email.pradnyahon@gmail.com)  
+- **Email:** [pradnyahon26@gmail.com](mailto:email.pradnyahon@gmail.com)  
 
 ---
 
