@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">
-  <a href="mailto:pradnyahon26@gmail.com"><img src="https://img.shields.io/badge/Email-email.pradnyahon@gmail.com-red" alt="Email"></a>
+  <a href="mailto:pradnyahon26@gmail.com"><img src="https://img.shields.io/badge/Email-pradnyahon26@gmail.com-red" alt="Email"></a>
   <a href="https://www.linkedin.com/in/pradnyahon24"><img src="https://img.shields.io/badge/LinkedIn-Pradnya%20Hon-blue" alt="LinkedIn"></a>
   <a href="https://github.com/PradnyaHon"><img src="https://img.shields.io/badge/GitHub-PradnyaHon-000" alt="GitHub"></a>
 </p>  
